@@ -1,4 +1,4 @@
-# TomTom GO Button
+# Google Maps (on Google Search) to TomTom GO
 
 ## Description
 
