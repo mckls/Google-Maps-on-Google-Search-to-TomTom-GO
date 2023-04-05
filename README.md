@@ -19,7 +19,7 @@ Android:
 - [Tampermonkey](https://play.google.com/store/apps/details?id=net.biniok.tampermonkey)
 
 
-Either click on the button below, after you have installed tampermonkey or copy and paste the contents of tomtomgo-button.user.js to the desired location.
+Either click on the button below, after you have installed tampermonkey or copy and paste the contents of or save the file tomtomgo-button.user.js to the/your desired location.
 
 [<img src="readme/button.png">](../raw/branch/main/tomtomgo-button.user.js)
 
