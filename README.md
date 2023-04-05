@@ -21,7 +21,7 @@ Android:
 
 Either click on the button below, after you have installed tampermonkey or copy and paste the contents of or save the file tomtomgo-button.user.js to the/your desired location.
 
-[<img src="readme/button.png">](../raw/branch/main/tomtomgo-button.user.js)
+[<img src="readme/button.png">](/mckls/google-maps-to-tomtom-go/raw/main/tomtomgo-button.user.js)
 
 ## License
 
